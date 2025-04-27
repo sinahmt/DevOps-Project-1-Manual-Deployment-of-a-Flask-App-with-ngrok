@@ -9,6 +9,7 @@ This repository documents the initial steps in learning DevOps by manually deplo
 1.  **Clone the Repository:**
     ```bash
     git clone https://github.com/sinahmt/DevOps-Project-1-Manual-Deployment-of-a-Flask-App-with-ngrok.git
+
     cd DevOps-Project-1-Manual-Deployment-of-a-Flask-App-with-ngrok
     ```
 
