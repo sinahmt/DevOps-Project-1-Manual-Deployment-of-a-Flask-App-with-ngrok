@@ -56,5 +56,4 @@ This section describes how to temporarily expose the local Flask application to 
 ## Repository Contents
 
 * `app.py`: The basic Flask web application code.
-* `requirements.txt`: A list of Python dependencies for this project (currently just Flask).
 * `README.md`: This documentation file.
