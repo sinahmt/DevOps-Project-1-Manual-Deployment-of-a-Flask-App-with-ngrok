@@ -58,3 +58,4 @@ This section describes how to temporarily expose the local Flask application to 
 
 * `app.py`: The basic Flask web application code.
 * `README.md`: This documentation file.
+* `LICENSE`
