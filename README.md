@@ -1,4 +1,4 @@
-# DevOps Project 1: Manual Deployment of a Flask App with ngrok
+# Manual Deployment of a Flask App with ngrok
 
 ## Overview
 
